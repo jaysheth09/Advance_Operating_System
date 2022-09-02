@@ -32,3 +32,10 @@ int main(int argc, char *argv[2]) {
 	}
 	return 0;
 }
+
+
+/*
+How to Compile and Run file
+-> To compile > gcc ls_cmd.c -o ls_cmd
+-> To run > ./ls_cmd <path to dir>
+*/
