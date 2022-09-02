@@ -27,3 +27,10 @@ int main(int argc, char *argv[2]) {
 	close(fd);
 	return 0;
 }
+
+
+/*
+How to Compile and Run file
+-> To compile > gcc cat_cmd.c -o cat_cmd
+-> To run > ./cat_cmd <filename>
+*/
